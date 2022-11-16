@@ -7,14 +7,14 @@ Simple playlist app I made to practice interfacing with an API. I learned how to
 * chain fetch requests
 
 ## Table of Contents
-* [General info] (##general-info)
-* [Technologies] (##technologies)
-* [Setup] (##setup)
-* [Screenshots] (##screenshots)
-* [Status] (##status)
-* [Room for Improvement] (##room-for-improvement)
-* [Acknowledgements] (##acknowledgements)
-* [Contact] (##contact)
+* [General info](##general-info)
+* [Technologies](##technologies)
+* [Setup](##setup)
+* [Screenshots](##screenshots)
+* [Status](##status)
+* [Room for Improvement](##room-for-improvement)
+* [Acknowledgements](##acknowledgements)
+* [Contact](##contact)
 
 ## General info
 Users can search [Spotify](https://www.spotify.com/)'s database for an artist, song or album. They can then build a new playlist from the search results. When they've built their playlist, users can name it and save it to their Spotify profile.
@@ -38,7 +38,7 @@ $ npm start
 ![Image](/src/assets/Screenshot_SearchResults.png)
 
 *New Playlist*
-![Image](/src/assets/Screenshot_SearchResults.png)
+![Image](/src/assets/Screenshot_Playlist.png)
 
 *Published to Spotify*
 ![Image](/src/assets/Screenshot_Spotify.png)
