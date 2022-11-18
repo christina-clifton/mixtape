@@ -1,5 +1,5 @@
 let accessToken;
-const clientId = '727e3de8f2b849a3b91107eca4d8b4ec';
+let clientId;
 const redirectUri = 'http://localhost:3000/';
 const baseUrl = 'https://api.spotify.com/v1';
 
